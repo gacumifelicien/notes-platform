@@ -1,0 +1,30 @@
+/digital-notes-platform/
+│
+├── admin/
+│   ├── dashboard.php
+│   ├── manage_notes.php
+│   ├── manage_subjects.php
+│   ├── upload_note.php
+│   ├── style.css
+│   └── script.js
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│
+├── includes/
+│   ├── config.php
+│   ├── auth.php
+│   ├── functions.php
+│   └── header.php
+│
+├── notes/
+│   └── (uploaded files will be stored here)
+│
+├── index.php
+├── subject.php
+├── login.php
+└── database.sql
